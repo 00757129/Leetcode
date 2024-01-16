@@ -9,3 +9,8 @@
 2. 內部再以 for 迴圈計算 vector 中每一個值
 
 
+時間複雜度：O(N²)，N 為 rowIndex
+空間複雜度：O(N)
+
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Pascal’s Triangle II.
+Memory Usage: 6.4 MB, less than 80.75% of C++ online submissions for Pascal’s Triangle II.

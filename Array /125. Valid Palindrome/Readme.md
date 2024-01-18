@@ -26,3 +26,7 @@
 時間複雜度：O(N)，N 為 s.length()
 
 空間複雜度：O(1)
+
+
+![image](https://github.com/00757129/Leetcode/assets/58520935/a17b586e-e06f-42f7-b8a9-454b4a0b757b)
+

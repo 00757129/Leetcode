@@ -9,3 +9,5 @@
 ---------------------------
 * 時間複雜度：O(N)，N 為 linked list 的節點數
 * 空間複雜度：O(1)
+-----------
+![image](https://github.com/00757129/Leetcode/assets/58520935/410ba836-c358-4f33-bec1-2973aa3ce88e)

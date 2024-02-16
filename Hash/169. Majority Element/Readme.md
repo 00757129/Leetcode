@@ -14,3 +14,12 @@
   * 時間複雜度：O(N logN)，N 為 nums.size()
 
     空間複雜度：O(1)
+* 【version 3】
+  1. Boyer–Moore majority vote algorithm(摩爾投票算法)
+
+     刪去數列中兩個不同的數字，不會影響該數列的majority element。
+  3. 如果和ans相等，則將count+1；
+     
+      如果和ans不同，且count>0時，將count-1；(取這兩個數成對移除)
+
+       如果和ans不同但是count=0時，將ans更改為nums[i]並將count+1。(代表ans已經用完了，現在還沒被移除的是nums[i])

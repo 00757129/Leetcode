@@ -7,3 +7,4 @@
 --------------
 * 時間複雜度：O(N)，N 為 tree 之節點數
 * 空間複雜度：O(N)
+![image](https://github.com/00757129/Leetcode/assets/58520935/82ae42ef-7bd4-44fc-9373-df9be7c4d9c9)
